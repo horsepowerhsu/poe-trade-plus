@@ -129,7 +129,7 @@ function startKroxScriptMainWorld() {
   // ---------- floating panel ----------
   const globalPanel = h(`
     <div id="finer-search-global">
-      <span id="finer-search-global-title">add to filters</span>
+      <span id="finer-search-global-title">加入篩選</span>
       <div class="finer-search-global-toggle-collapsed dnArr"></div>
       <div class="finer-search-global-body hidden">
         <div class="finer-search-global-section mods">
